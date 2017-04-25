@@ -1,1 +1,1 @@
-# ib_simulator.js
+# ib-simulator-js
