@@ -1,0 +1,24 @@
+{
+  "name": "ib_simulator.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "mqtt": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S3Innovate/ib_simulator.js.git"
+  },
+  "author": "linanw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S3Innovate/ib_simulator.js/issues"
+  },
+  "homepage": "https://github.com/S3Innovate/ib_simulator.js#readme"
+}
